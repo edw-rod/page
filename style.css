@@ -2224,3 +2224,59 @@ body {
     opacity: 1;
   }
 }
+
+.section-footer {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.imagenes-large-1 {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  height: 250px;
+  width: 141px;
+  transform: rotate(-15deg);
+
+}
+
+.imagenes-large-2 {
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  height: 250px;
+  width: 141px;
+  transform: rotate(10deg);
+
+}
+
+.imagenes-large-3 {
+  position: absolute;
+  bottom: 5%;
+  left: 1%;
+  height: 250px;
+  width: 141px;
+  transform: rotate(-5deg);
+
+}
+
+
+
+.imagenes-anche-1 {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  height: 172px;
+  width: 305px;
+  transform: rotate(5deg);
+
+}
+
+.imagenes-anche-2 {
+  position: relative;
+  top: 10%;
+  height: 172px;
+  width: 305px;
+
+}
